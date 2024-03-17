@@ -30,6 +30,8 @@ Contributions are welcome! If you have ideas for new features or enhancements, f
 
 ## Screenshots 
 <img width="865" alt="Screenshot 2024-03-18 at 4 25 34 AM" src="https://github.com/imonish8/openai-gpt/assets/115737071/ffc6ebda-e7ef-41f5-bb65-9e2b38ea4773">
+[AI URL Summarize](http://mn8ai.surge.sh)
+
 
 ## License
 This project is licensed under the [MN8 License](LICENSE).
