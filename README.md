@@ -1,13 +1,14 @@
 # AI OPENAI GPT-4
 
 ## Introduction
-Welcome to imonish8 repo! 🤖 This repository is designed to provide a cool and Minimalistic theme for your AI-related projects on GitHub. With sleek design elements and futuristic vibes.
+Welcome to imonish8 repo! 🤖 This repository is designed to provide a cool and Minimalistic Desgined for your AI-related projects on GitHub. With sleek design elements and futuristic vibes. 
 
 ## Features
 - **Minimalistic Design**: Get ready to take your project into the future with a visually striking theme that screams cutting-edge technology.
 - **Customizable**: Tailor the theme to your liking with customizable elements, colors, and fonts.
 - **Easy Integration**: Implementing Minimal Theme is a breeze; simply follow the setup instructions, and you'll have a stunning GitHub repository in no time.
 - **Responsive**: Minimal Theme is designed to look great on all devices, ensuring a seamless experience for users whether they're on desktop or mobile.
+- **Tech-Stack**: Vite.js + React+Redux + tailwind for smooth css styling.
 
 ## Usage
 To use Minimal Theme for your GitHub repository, follow these simple steps:
